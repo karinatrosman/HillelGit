@@ -1,0 +1,70 @@
+html {
+	font-family: 'Roboto', sans-serif;
+}
+
+h4 {
+  color:red;
+  font-size: 40px;
+  background: linear-gradient(135deg, #323264 0%, #323264 73.96%, #A54B5F 100%);
+}
+
+h3 {
+  color: blue;
+  font-size: 30px;
+}
+
+h1 {
+  color:darkolivegreen;
+  text-align: center;
+  background: linear-gradient(135deg, #323264 0%, #323264 73.96%, #A54B5F 100%);
+}
+
+.tel {
+  color:darkcyan;
+  cursor: pointer;
+}
+
+.tel:hover {
+  color: darkmagenta;
+}
+
+a:visited {
+  color: red;
+}
+
+a:hover {
+  color: cadetblue;
+}
+
+.home {
+  font-size: 25px;
+}
+
+.contact {
+  font-size: 25px;
+}
+
+.gallery {
+  font-size: 25px;
+}
+
+.about {
+  font-size: 25px;
+}
+
+.main {
+  margin: 20px;
+}
+
+.images {
+  width: 300px;
+  height: 100%;
+}
+
+#name {
+  font-size: 20px;
+}
+
+#title {
+  font-size: 20px;
+}
